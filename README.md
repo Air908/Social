@@ -1,4 +1,3 @@
----
 
 # 🏡 Unified Community Platform  
 
@@ -71,5 +70,3 @@ Want to contribute? Feel free to submit a **Pull Request** or open an **Issue**!
 
 ## 📜 License  
 MIT License  
-
----
